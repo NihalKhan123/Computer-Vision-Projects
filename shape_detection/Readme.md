@@ -6,7 +6,8 @@
 
 INPUT IMG:
 
-<img width="754" height="478" alt="Untitled" src="https://github.com/user-attachments/assets/cee07177-d4c1-457d-b509-71791a0a6f75" />
+<img width="500" height="400" alt="Untitled" src="https://github.com/user-attachments/assets/cee07177-d4c1-457d-b509-71791a0a6f75" />
 
 output IMG:
-<img width="754" height="478" alt="output_image" src="https://github.com/user-attachments/assets/78f687fe-e9ca-456e-834d-5ba68a3f6c01" />
+
+<img width="500" height="400" alt="output_image" src="https://github.com/user-attachments/assets/78f687fe-e9ca-456e-834d-5ba68a3f6c01" />
