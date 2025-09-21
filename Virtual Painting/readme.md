@@ -6,4 +6,5 @@ This help to create a virtual painting using this tool
 
 output:
 
-<img width="797" height="632" alt="Screenshot (3954)" src="https://github.com/user-attachments/assets/424d279c-2d80-46b1-ab3c-fd1f895625dd" />
+
+<img width="500" height="400" alt="Screenshot (3954)" src="https://github.com/user-attachments/assets/a436e474-e8b6-4029-ae87-332e2d43ca54" />
