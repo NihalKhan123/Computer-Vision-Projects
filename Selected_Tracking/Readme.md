@@ -15,11 +15,6 @@ https://github.com/user-attachments/assets/567f35fc-6d12-4e6c-abd7-6004549b246a
 
 # output :-
 
-
-
-https://github.com/user-attachments/assets/45be762f-f914-4738-964b-e3ed6ab8ee15
-
-
-
+https://github.com/user-attachments/assets/72e16b09-4cb3-4072-b950-46bf1387a8e4
 
 
